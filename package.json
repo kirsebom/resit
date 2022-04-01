@@ -1,0 +1,33 @@
+{
+	"name": "course-assignment-alt-i-samme-ts-fil",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"browserslist": [
+		"last 3 and_chr versions",
+		"last 3 chrome versions",
+		"last 3 opera versions",
+		"last 3 ios_saf versions",
+		"last 3 safari versions"
+	],
+	"devDependencies": {
+		"@babel/core": "^7.17.8",
+		"@babel/preset-env": "^7.16.11",
+		"@babel/preset-typescript": "^7.16.7",
+		"@types/jest": "^27.4.1",
+		"babel-jest": "^27.5.1",
+		"jest": "^27.5.1",
+		"sass": "^1.49.10"
+	},
+	"dependencies": {
+		"apollo-boost": "^0.4.9",
+		"graphql": "^15.8.0",
+		"lodash": "^4.17.21"
+	}
+}
